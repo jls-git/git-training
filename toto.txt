@@ -1,2 +1,3 @@
 ceci est un fichier
 Pourquoi ne pas l'appeler titi.txt !!! ;-)
+toto est un fichier
